@@ -1,0 +1,20 @@
+:root{
+    --Background: yellow;
+}
+
+.K_vY0HZPVdxTK2v5hb93h{
+    color: var(--Background)
+}
+
+._1CaMeaiqRhfXAG4Fr1EavB{
+    & a {
+        color: var(--Background)
+    }
+}
+
+/* css in js */
+
+
+
+
+/* js in  css */
